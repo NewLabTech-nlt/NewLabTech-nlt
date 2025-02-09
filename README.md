@@ -1,11 +1,6 @@
 # 🧑‍💻 **NewLabTech** 
 
 ## 🚀 Minhas Estatísticas do GitHub
-
-![Minhas Stats](https://github-readme-stats.vercel.app/api?username=manuelammete&show_icons=true&theme=dark&border_radius=10&hide_title=true)
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelammete&layout=compact&theme=dark&border_radius=10)
-
 ## ➭ Sobre Nós
 
 - _Somos uma empresa tecnológica dedicada a simplificar o uso de softwares do dia a dia, tornando-os mais acessíveis. Nosso objetivo é otimizar essas ferramentas para promover o aprendizado contínuo de nossos usuários._
