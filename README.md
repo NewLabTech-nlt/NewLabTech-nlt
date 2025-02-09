@@ -1,5 +1,10 @@
 # 🧑‍💻 **NewLabTech** 
 
+## 🚀 Minhas Estatísticas do GitHub
+
+![Minhas Stats](https://github-readme-stats.vercel.app/api?username=manuelammete&show_icons=true&theme=dark&border_radius=10&hide_title=true)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelammete&layout=compact&theme=dark&border_radius=10)
 
 ## ➭ Sobre Nós
 
